@@ -1,4 +1,4 @@
-FROM ubuntu:21.10
+FROM ubuntu:20.04.4
 LABEL maintainer="Stille <stille@ioiox.com>"
 
 ENV VERSION 0.3.1
